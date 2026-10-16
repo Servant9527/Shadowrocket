@@ -1,0 +1,8 @@
+#!name=Hide VPN Icon
+#!author=Rabbit-Spec
+#!desc=隐藏VPN图标
+#!system=ios
+
+[General]
+hide-vpn-icon = true
+
